@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bot",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "friendssmpx99.aternos.me",
-    "port": 64982,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,10 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 120,
       "messages": [
-        "I'm a afk bot",
-        "Made by yugalx9!",
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
